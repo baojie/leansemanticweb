@@ -13,16 +13,16 @@
 
 * Cost of modeling and indexing semantics in database
 * Use relational DB for semantic modeling
-* Document database: MongoDB, Elastic Search
+* Document database: MongoDB, Elastic Search etc
 * Graph database: TinkerPop stack, Neo4j, OrientDB
-* Graph batch processing: Pregel etc
+* Graph batch processing: Pregel, Hama, GraphChi etc
 * Querying triples
 * Implementation: some Python
 
 ## Section 3 Search
 
 * Database vs search engine
-* Inverted index and its cost
+* Cost of inverted index
 * Extend inverted index to model semantic relations
 * Understanding user queries: from keywords to sentences
 * Faceted search: Elastic Search and Solr
@@ -42,10 +42,9 @@
 
 * Cost of inference
 * Just-in-time knowledge
-* Rules
+* Practical rule modeling
 * Inference as graph operations
-* Inference using database
-* Inference with full-text search engine
+* Inference using databases
 * Inference using functional programming
 * Implementation: some Python
 
@@ -63,7 +62,7 @@
 * Cognitive background
 * Exhibit and others
 * D3 (and other JavaScript lib)
-* NetworkX (and other Python lib)
+* NetworkX and  (and other Python lib)
 * Implementation: some Python
 
 ## Section 8 User Interaction
