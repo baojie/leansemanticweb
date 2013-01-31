@@ -17,7 +17,7 @@
 * Document database: MongoDB, Elastic Search etc
 * Graph database: TinkerPop stack, Neo4j, OrientDB
 * Graph batch processing: Pregel, Hama, GraphChi etc
-* Querying triples
+* Querying triples (with RDB, document db, graph db, or dedicated triple store)
 * Implementation: some Python
 
 ## Section 3 Search
@@ -34,7 +34,7 @@
 
 * Portablility
 * Protocol Buffers and Thrift
-* Email 
+* Email and MIME
 * JSON-RPC
 * XMPP and Google Wave Protocol
 * REST API design
