@@ -31,11 +31,13 @@
 
 ## Section 4 Data Exchange and Integration
 
+* Portablility
 * Protocol Buffers and Thrift
+* Email 
 * JSON-RPC
 * XMPP and Google Wave Protocol
 * REST API design
-* Most important data APIs
+* Some most important data APIs
 * Implementation: some Python
 
 ## Section 5 Inference
