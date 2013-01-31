@@ -1,5 +1,6 @@
 ## Section 1 Data Representation
 
+* What is data and structure?
 * Value of unstructured data
 * Value of structured data
 * Cost of data modeling
