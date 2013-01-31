@@ -65,14 +65,13 @@
 * Exhibit and others
 * D3 (and other JavaScript lib)
 * NetworkX and  (and other Python lib)
-* Implementation: some Python
+* Implementation: some Python and Javascript
 
 ## Section 8 User Interaction
 
 * It's about people, not machine
-* Social machine
-* Text interface
 * Guided data exploration and discovery
+* Text interface
 * Faceted Browser
 * Voice interface and personal assistants
 * Implementation: some Python
@@ -81,11 +80,11 @@
 
 * Measuring semantics in data
 * Small is beautiful in knowledge
-* The knowledge growth principle
+* The rule of knowledge growth on Web
 * Small knowledge
 * Big knowledge
 * Big data
-* Datasets: Freebase, DBPedia, LOGD, etc.
+* Datasets: Freebase, DBPedia, LOGD, Factual etc.
 * Platforms: EC2 (boto), and some others
 * Implementation: some Python
 
