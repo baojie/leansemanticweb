@@ -82,8 +82,8 @@
 * Measuring semantics in data
 * Small is beautiful in knowledge
 * The rule of knowledge growth on Web
-* Small knowledge
-* Big knowledge
+* Small knowledge: in-memory graph models
+* Big knowledge: knowledge bases on clusters
 * Big data
 * Datasets: Freebase, DBPedia, LOGD, Factual etc.
 * Platforms: EC2 (boto), and some others
