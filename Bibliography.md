@@ -1,4 +1,4 @@
-These are some books and resources that are useful for the development of lean semantic web. It's not just about RDF/SPARQL/OWL etc, rathor, also including many other mature industrial pratices of how to leverage the power of structured data in the Web age.
+These are some books and resources that are useful for the development of lean semantic web. It's not just about RDF/SPARQL/OWL etc, rather, also including many other mature industrial pratices of how to leverage the power of structured data in the Web age.
 
 What are the inclusion criteria?
 * state of the art
@@ -18,10 +18,15 @@ Also see: [Syllabus](/Syllabus.md/)
 ## Section 3 Search
 
 * Trey Grainger and Timothy Potter. Solr in Action. Manning, 2013 (to be published)
+* Maksim Tsvetovat; Alexander Kouznetsov. Social Network Analysis for Startups O'Reilly. 2011. (for graph search and NetworkX reference)
 
 ## Section 4 Data Exchange and Integration
 
+* Google Wave Federation Protocol http://www.waveprotocol.org/
+
 ## Section 5 Inference
+
+
 
 ## Section 6 Knowledge Extraction
 
