@@ -19,9 +19,14 @@ Also see: [Syllabus](/Syllabus.md/)
 
 ## Section 6 Knowledge Extraction
 
+* Steven Bird, Ewan Klein, and Edward Loper. Natural Language Processing with Python. O'Reilly, 2009. http://nltk.org/book/
+* Matthew A. Russell. Mining the Social Web: Analyzing Data from Facebook, Twitter, LinkedIn, and Other Social Media Sites. O'Reilly, 2011 https://github.com/ptwobrussell/Mining-the-Social-Web
+
 ## Section 7 Visualization
 
+* Nathan Yau. Visualize This: The FlowingData Guide to Design, Visualization, and Statistics. Wiley. 2011. http://book.flowingdata.com/
 * Mike Dewar. Getting Started with D3.  O'Reilly 2012
+
 
 ## Section 8 User Interaction
 
@@ -33,3 +38,7 @@ Also see: [Syllabus](/Syllabus.md/)
 
 * Eric Ries. The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesseshttp://theleanstartup.com/
 * Ash Maurya. Running Lean: Iterate from Plan A to a Plan That Works. O'Reilly, 2012 http://runninglean.co/
+
+## At large
+
+* Tim Berners-Lee. Weaving the Web. Harper Business 2000
