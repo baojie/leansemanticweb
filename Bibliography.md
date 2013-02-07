@@ -12,8 +12,11 @@ Also see: [Syllabus](/Syllabus.md/)
 
 ## Section 2 Databases
 
+* Niall O'Higgins. MongoDB and Python: Patterns and processes for the popular document-oriented database. O'Reilly. 2011
+* Kyle Banker. MongoDB in Action. Manning 2011
 * Alessandro Nadalin. OrientDB in Action. 2013 (to be published)
 * The Neo4j Manual http://docs.neo4j.org/ (in pdf and html)
+* TinkerPop stack http://www.tinkerpop.com/
 
 ## Section 3 Search
 
