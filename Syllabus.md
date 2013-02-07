@@ -71,11 +71,11 @@
 ## Section 8 User Interaction
 
 * It's about people, not machine
-* Guided data exploration and discovery
-* Text interface
+* Guided data exploration and discovery: why semantics is part of the solution
+* Query formulating
 * Faceted Browser
-* Voice interface and personal assistants
-* Implementation: some Python
+* Mobile search, Voice interface and personal assistants
+* Implementation: some Python (ElasticSearch, Redis, RDF store based)
 
 ## Section 9: Big Data, or not
 
