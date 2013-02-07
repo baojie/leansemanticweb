@@ -1,3 +1,5 @@
+Also see [Bibliography](/Bibliography.md/)
+
 ## Section 1 Data Representation
 
 * What is data and structure?
