@@ -1,11 +1,13 @@
 These are some books and resources that are useful for the development of lean semantic web. It's not just about RDF/SPARQL/OWL etc, rathor, also including many other mature industrial pratices of how to leverage the power of structured data in the Web age.
 
+Also see: [Syllabus](/Syllabus.md/)
+
 ## Section 1 Data Representation
 
 ## Section 2 Databases
 
 * Alessandro Nadalin. OrientDB in Action. 2013 (to be published)
-
+* The Neo4j Manual http://docs.neo4j.org/ (in pdf and html)
 
 ## Section 3 Search
 
