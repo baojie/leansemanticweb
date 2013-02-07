@@ -1,3 +1,5 @@
+These are some books and resources that are useful for the development of lean semantic web. It's not just about RDF/SPARQL/OWL etc, rathor, also including many other mature industrial pratices of how to leverage the power of structured data in the Web age.
+
 ## Section 1 Data Representation
 
 ## Section 2 Databases
