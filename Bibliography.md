@@ -30,7 +30,6 @@ Also see: [Syllabus](/Syllabus.md/)
 ## Section 5 Inference
 
 
-
 ## Section 6 Knowledge Extraction
 
 * Steven Bird, Ewan Klein, and Edward Loper. Natural Language Processing with Python. O'Reilly, 2009. http://nltk.org/book/
@@ -40,7 +39,7 @@ Also see: [Syllabus](/Syllabus.md/)
 
 * Nathan Yau. Visualize This: The FlowingData Guide to Design, Visualization, and Statistics. Wiley. 2011. http://book.flowingdata.com/
 * Mike Dewar. Getting Started with D3.  O'Reilly 2012
-
+* Scott Murray. Interactive Data Visualization for the Web. O'Reilly 2012
 
 ## Section 8 User Interaction
 
@@ -52,6 +51,7 @@ Also see: [Syllabus](/Syllabus.md/)
 
 * Eric Ries. The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesseshttp://theleanstartup.com/
 * Ash Maurya. Running Lean: Iterate from Plan A to a Plan That Works. O'Reilly, 2012 http://runninglean.co/
+* Amazon Elastic Compute Cloud (EC2) Documentation http://aws.amazon.com/documentation/ec2/
 
 ## At large
 
