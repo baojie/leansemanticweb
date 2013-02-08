@@ -3,7 +3,7 @@ These are some books and resources that are useful for the development of lean s
 What are the inclusion criteria?
 * state of the art
 * practice over theories
-* actable pratice over encyclopedia
+* actable, distalled practice over encyclopedia
 * proven technologies
 
 Also see: [Syllabus](/Syllabus.md/)
