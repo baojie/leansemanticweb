@@ -53,6 +53,8 @@ Also see: [Syllabus](/Syllabus.md/)
 
 ## Section 9: Big Data, or not
 
+* Tom Heath, Christian Bizer. Linked Data: Evolving the Web into a Global Data Space Synthesis Lectures on the Semantic Web: Theory and Technology, 1:1, 1-136. Morgan & Claypool. http://linkeddatabook.com/editions/1.0/
+
 ## Section 10 Lean Application Development 
 
 * Eric Ries. The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesseshttp://theleanstartup.com/
