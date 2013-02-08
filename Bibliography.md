@@ -33,6 +33,8 @@ Also see: [Syllabus](/Syllabus.md/)
 
 * Google Wave Federation Protocol http://www.waveprotocol.org/
 * Mark Masse. REST API Design Rulebook. O'Reilly  2011
+* Protocol Buffers http://code.google.com/p/protobuf/
+* Peter Saint-Andre , Kevin Smith, Remko Tronçon. XMPP: The Definitive Guide. O'Reilly. 2009
 
 ## Section 5 Inference
 
@@ -55,12 +57,12 @@ Also see: [Syllabus](/Syllabus.md/)
 ## Section 8 User Interaction
 
 * Tony Russell-Rose, Tyler Tate, Designing the search experience. Elsevier, 2013 http://designingthesearchexperience.com/
+*  Peter Morville. Ambient Findability. O'Reilly 2005
 
 ## Section 9: Big Data, or not
 
 * Tom Heath, Christian Bizer. Linked Data: Evolving the Web into a Global Data Space Synthesis Lectures on the Semantic Web: Theory and Technology, 1:1, 1-136. Morgan & Claypool. http://linkeddatabook.com/editions/1.0/
 * Pete Warden. Big Data Glossary. O'Reilly 2011
-* Protocol Buffers http://code.google.com/p/protobuf/
 
 ## Section 10 Lean Application Development 
 
