@@ -10,6 +10,9 @@ Also see: [Syllabus](/Syllabus.md/)
 
 ## Section 1 Data Representation
 
+* Dean Allemang, James Hendler. Semantic Web for the Working Ontologist, Second Edition: Effective Modeling in RDFS and OWL. Morgan Kaufmann. 2011  http://workingontologist.org/
+* Toby Segaran, Colin Evans, Jamie Taylor. Programming the Semantic Web. O'Reilly 2009
+
 ## Section 2 Databases
 
 * Niall O'Higgins. MongoDB and Python: Patterns and processes for the popular document-oriented database. O'Reilly. 2011
@@ -20,6 +23,7 @@ Also see: [Syllabus](/Syllabus.md/)
 
 ## Section 3 Search
 
+* Elastic Search Guide http://www.elasticsearch.org/guide/
 * Trey Grainger and Timothy Potter. Solr in Action. Manning, 2013 (to be published)
 * Maksim Tsvetovat; Alexander Kouznetsov. Social Network Analysis for Startups O'Reilly. 2011. (for graph search and NetworkX reference)
 
