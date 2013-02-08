@@ -30,6 +30,7 @@ Also see: [Syllabus](/Syllabus.md/)
 ## Section 4 Data Exchange and Integration
 
 * Google Wave Federation Protocol http://www.waveprotocol.org/
+* Mark Masse. REST API Design Rulebook. O'Reilly  2011
 
 ## Section 5 Inference
 
@@ -40,6 +41,8 @@ Also see: [Syllabus](/Syllabus.md/)
 
 * Steven Bird, Ewan Klein, and Edward Loper. Natural Language Processing with Python. O'Reilly, 2009. http://nltk.org/book/
 * Matthew A. Russell. Mining the Social Web: Analyzing Data from Facebook, Twitter, LinkedIn, and Other Social Media Sites. O'Reilly, 2011 https://github.com/ptwobrussell/Mining-the-Social-Web
+* Q. Ethan McCallum. Bad Data Handbook: Cleaning Up The Data So You Can Get Back To Work. O'Reilly  2012
+* Drew Conway, John Myles White. Machine Learning for Hackers.  O'Reilly  2012
 
 ## Section 7 Visualization
 
@@ -54,6 +57,8 @@ Also see: [Syllabus](/Syllabus.md/)
 ## Section 9: Big Data, or not
 
 * Tom Heath, Christian Bizer. Linked Data: Evolving the Web into a Global Data Space Synthesis Lectures on the Semantic Web: Theory and Technology, 1:1, 1-136. Morgan & Claypool. http://linkeddatabook.com/editions/1.0/
+* Pete Warden. Big Data Glossary. O'Reilly 2011
+* Protocol Buffers http://code.google.com/p/protobuf/
 
 ## Section 10 Lean Application Development 
 
