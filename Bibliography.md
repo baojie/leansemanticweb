@@ -1,4 +1,4 @@
-These are some books and resources that are useful for the development of lean semantic web. It's not just about RDF/SPARQL/OWL etc, rather, also including many other mature industrial pratices of how to leverage the power of structured data in the Web age.
+These are some books and resources that are useful for the development of lean semantic web application. It covers both RDF/SPARQL/OWL and many other mature industrial pratices on how to leverage the power of structured data in the Web age.
 
 What are the inclusion criteria?
 * state of the art
@@ -7,6 +7,8 @@ What are the inclusion criteria?
 * proven technologies
 
 Also see: [Syllabus](/Syllabus.md/)
+
+[Work in progress]
 
 ## Section 1 Data Representation
 
