@@ -33,6 +33,8 @@ Also see: [Syllabus](/Syllabus.md/)
 
 ## Section 5 Inference
 
+* Jena rule inference engine http://jena.apache.org/documentation/inference/index.html
+* Fuxi python inference engine http://code.google.com/p/fuxi/
 
 ## Section 6 Knowledge Extraction
 
@@ -57,7 +59,8 @@ Also see: [Syllabus](/Syllabus.md/)
 * Ash Maurya. Running Lean: Iterate from Plan A to a Plan That Works. O'Reilly, 2012 http://runninglean.co/
 * Amazon Elastic Compute Cloud (EC2) Documentation http://aws.amazon.com/documentation/ec2/
 * Yaron Koren. Working With MediaWiki. WikiWorks 2012 http://workingwithmediawiki.com/ (MediaWiki and Semantic MediaWiki)
- 
+* Flask Documentation http://flask.pocoo.org/docs/ in pdf and html
+
 ## At large
 
 * Tim Berners-Lee. Weaving the Web. Harper Business 2000
