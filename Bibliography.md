@@ -56,7 +56,8 @@ Also see: [Syllabus](/Syllabus.md/)
 * Eric Ries. The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesseshttp://theleanstartup.com/
 * Ash Maurya. Running Lean: Iterate from Plan A to a Plan That Works. O'Reilly, 2012 http://runninglean.co/
 * Amazon Elastic Compute Cloud (EC2) Documentation http://aws.amazon.com/documentation/ec2/
-
+* Yaron Koren. Working With MediaWiki. WikiWorks 2012 http://workingwithmediawiki.com/ (MediaWiki and Semantic MediaWiki)
+ 
 ## At large
 
 * Tim Berners-Lee. Weaving the Web. Harper Business 2000
