@@ -47,6 +47,7 @@ Also see: [Syllabus](/Syllabus.md/)
 * Matthew A. Russell. Mining the Social Web: Analyzing Data from Facebook, Twitter, LinkedIn, and Other Social Media Sites. O'Reilly, 2011 https://github.com/ptwobrussell/Mining-the-Social-Web
 * Q. Ethan McCallum. Bad Data Handbook: Cleaning Up The Data So You Can Get Back To Work. O'Reilly  2012
 * Drew Conway, John Myles White. Machine Learning for Hackers.  O'Reilly  2012
+* Jacob Perkins. Python Text Processing with NLTK 2.0 Cookbook, Packt Publishing, 2010
 
 ## Section 7 Visualization
 
@@ -59,7 +60,7 @@ Also see: [Syllabus](/Syllabus.md/)
 * Tony Russell-Rose, Tyler Tate, Designing the search experience. Elsevier, 2013 http://designingthesearchexperience.com/
 *  Peter Morville. Ambient Findability. O'Reilly 2005
 
-## Section 9: Big Data, or not
+## Section 9: Big Data and Lean Data
 
 * Tom Heath, Christian Bizer. Linked Data: Evolving the Web into a Global Data Space Synthesis Lectures on the Semantic Web: Theory and Technology, 1:1, 1-136. Morgan & Claypool. http://linkeddatabook.com/editions/1.0/
 * Pete Warden. Big Data Glossary. O'Reilly 2011
