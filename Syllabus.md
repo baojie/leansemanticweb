@@ -79,7 +79,7 @@ Also see [Bibliography](/Bibliography.md/)
 * Mobile search, Voice interface and personal assistants
 * Implementation: some Python (ElasticSearch, Redis, RDF store based)
 
-## Section 9: Big Data, or not
+## Section 9: Big Data and Lean Data
 
 * Measuring semantics in data
 * Small is beautiful in knowledge
