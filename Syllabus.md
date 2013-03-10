@@ -10,7 +10,7 @@ Also see [Bibliography](/Bibliography.md/)
 * Locating resources
 * Relating resources
 * Syntax: XML, JSON, YAML, RDF, Python etc.
-* Implementation: some Python
+* Implementation: some Python (RDFLib...)
 
 ## Section 2 Databases
 
@@ -22,7 +22,7 @@ Also see [Bibliography](/Bibliography.md/)
 * Querying triples (with RDB, document db, graph db, or dedicated triple store)
 * Implementation: some Python
 
-## Section 3 Search
+## Section 3 Search and Findability
 
 * Database vs search engine
 * Cost of inverted index
@@ -30,7 +30,7 @@ Also see [Bibliography](/Bibliography.md/)
 * Understanding user queries: from keywords to sentences
 * Faceted search: Elastic Search and Solr
 * Graph search
-* Implementation: some Python
+* Implementation: some Python (ESClient...)
 
 ## Section 4 Data Exchange and Integration
 
@@ -41,7 +41,7 @@ Also see [Bibliography](/Bibliography.md/)
 * XMPP and Google Wave Protocol
 * REST API design
 * Some most important data APIs
-* Implementation: some Python
+* Implementation: some Python (JSON...)
 
 ## Section 5 Inference
 
@@ -51,7 +51,7 @@ Also see [Bibliography](/Bibliography.md/)
 * Inference as graph operations
 * Inference using databases
 * Inference using functional programming
-* Implementation: some Python
+* Implementation: some Python (Pydatalog, Fuxi)
 
 ## Section 6 Knowledge Extraction
 
@@ -60,7 +60,7 @@ Also see [Bibliography](/Bibliography.md/)
 * Shallow parsing
 * Entity extraction
 * Relation extraction
-* Implementation: some Python
+* Implementation: some Python (NLTK...)
 
 ## Section 7 Visualization
 
@@ -68,7 +68,7 @@ Also see [Bibliography](/Bibliography.md/)
 * Exhibit and others
 * D3 (and other JavaScript lib)
 * NetworkX and  (and other Python lib)
-* Implementation: some Python and Javascript
+* Implementation: some Python (mapplotlib...) and Javascript 
 
 ## Section 8 User Interaction
 
@@ -88,8 +88,8 @@ Also see [Bibliography](/Bibliography.md/)
 * Big knowledge: knowledge bases on clusters
 * Big data
 * Datasets: Freebase, DBPedia, LOGD, Factual etc.
-* Platforms: EC2 (boto), and some others
-* Implementation: some Python
+* Platforms: EC2, and some others
+* Implementation: some Python (boto, starcluster)
 
 ## Section 10  Lean Application Development
 
@@ -100,4 +100,4 @@ Also see [Bibliography](/Bibliography.md/)
 * Measure: key metrics, but not vanity metrics
 * Learn: why^5
 * Semantic Wordpress/Drupal/Wiki, etc,
-* Implementation: some Python and some wiki
+* Implementation: some Python (mwclient) and some wiki
