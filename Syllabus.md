@@ -6,6 +6,7 @@ Also see [Bibliography](/Bibliography.md/)
 * Value of unstructured data
 * Value of structured data
 * Cost of data modeling
+* The art of readable knowledge
 * Naming resources
 * Locating resources
 * Relating resources
