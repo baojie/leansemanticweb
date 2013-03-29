@@ -1,5 +1,9 @@
 Also see [Bibliography](/Bibliography.md/)
 
+## Preamble
+* Goal 
+* TBD
+
 ## Section 1 Data Representation
 
 * What is data and structure?
@@ -102,3 +106,7 @@ Also see [Bibliography](/Bibliography.md/)
 * Learn: why^5
 * Semantic Wordpress/Drupal/Wiki, etc,
 * Implementation: some Python (mwclient) and some wiki
+
+## Appendix
+* Table of Python tools
+* TBD
