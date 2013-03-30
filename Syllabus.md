@@ -50,7 +50,7 @@ Also see [Bibliography](/Bibliography.md/)
 
 ## Section 5 Inference
 
-* Cost of inference
+* Cost of reasoner and index (IR, DB, KB)
 * Just-in-time knowledge
 * Practical rule modeling
 * Inference as graph operations
