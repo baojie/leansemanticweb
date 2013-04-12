@@ -62,6 +62,7 @@ Also see [Bibliography](/Bibliography.md/)
 
 * Cost of knowledge extraction
 * Data cleaning
+* Structure extraction
 * Shallow parsing
 * Entity extraction
 * Relation extraction
