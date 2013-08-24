@@ -106,6 +106,7 @@ Also see [Bibliography](/Bibliography.md/)
 * Measure: key metrics, but not vanity metrics
 * Learn: why^5
 * Semantic Wordpress/Drupal/Wiki, etc,
+* Data-oriented Programming
 * Implementation: some Python (mwclient) and some wiki
 
 ## Appendix
