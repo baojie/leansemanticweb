@@ -1,5 +1,7 @@
 # Lean Semantic Web Syllabus
 
+[Work in progress]
+
 Also see [Bibliography](/Bibliography.md/)
 
 ## Preamble
