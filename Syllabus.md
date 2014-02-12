@@ -25,6 +25,7 @@ Also see [Bibliography](/Bibliography.md/)
 
 * Cost of modeling and indexing semantics in database
 * Use relational DB for semantic modeling
+* Use key-value store to represent semantic relations: Redis etc.
 * Document database: MongoDB, Elastic Search etc
 * Graph database: TinkerPop stack, Neo4j, OrientDB
 * Graph batch processing: Pregel, Hama, GraphChi etc
